@@ -2,7 +2,7 @@
 
 Exercício #2 da semana #3, de nome "Mobile First". Parte do curso "Explorer", da plataforma de ensino [Rocketseat](https://rocketseat.com.br/).
 
-Este exercício é focado no estudo das linguagens HTML e CSS, introduzindo os conceitos de pseudo-classes e pseudo-elementos.i
+Este exercício é focado no estudo das linguagens HTML e CSS, introduzindo os conceitos de pseudo-classes e pseudo-elementos.
 
 <br>
   <img width="406" height="235" alt="Mockup - Desktop" src="https://github.com/user-attachments/assets/ca45dcb5-71c7-46ce-b8c2-2c8829a87c99" />
